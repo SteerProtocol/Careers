@@ -6,7 +6,7 @@ We are building a highly technical team of cryptocurrency and DeFi fanatics who 
 
 With our dev-first ethos, we encourage team members to take ownership over their roles and work autonomously, managing their own time and tasks.
 
-###About us
+### About us
 Steer Finance is a platform for cross-chain automated strategies with secure on-chain execution without excessive fees.
 
 Create, run, and join automated strategies for liquidity provision, trading, and more on any blockchain. Steer provides a venue to list and join any strategy that has been published to the network.
